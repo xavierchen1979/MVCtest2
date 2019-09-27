@@ -10,6 +10,7 @@ namespace MVCTest2.Controllers
     {
         public ActionResult Index()
         {
+
             return View();
         }
 
